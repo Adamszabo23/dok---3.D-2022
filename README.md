@@ -2,3 +2,5 @@
 
 # Prvý repozitar 
 sluzi na hodinach dokumentacie v stredu
+
+Dnes je streda 4.5.2022s
